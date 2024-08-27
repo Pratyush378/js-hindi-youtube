@@ -65,3 +65,4 @@ const course = {
 const {courseInstructor: instructor} = course // to short a given term here courseInstructor to instructor
 
 //console.log(instructor);
+
